@@ -10,6 +10,6 @@ if __name__ == "__main__":
     main()
 
 def goodbye():
-    return "Bye Bye"
+    return "Adieu"
 
 
